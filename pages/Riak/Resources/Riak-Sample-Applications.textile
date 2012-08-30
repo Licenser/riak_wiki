@@ -21,3 +21,4 @@ _Riak Core (or "riak_core" as it's written in the code) is the distributed syste
 * [[riak_zab|https://github.com/jtuple/riak_zab]] - An implementation of the Zookeeper
 protocol on top of Riak Core
 * [[try-try-try|https://github.com/rzezeski/try-try-try]] - Ryan Zezeski’s working blog that takes an in depth look at various aspects of riak_core (and walks you through building an application called "RTS") 
+* [[snarl|https://github.com/project-fifo/snarl/tree/dev]] - A authentication and access controll server, the code is much based on Ryan Zezeski’s blog posts.
